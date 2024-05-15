@@ -1,7 +1,7 @@
 # cosDBAPI
 
 sample model for relevent subjective way
-#code
+# code
 ```
 public class DTO
 {
