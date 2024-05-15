@@ -1,6 +1,8 @@
 # cosDBAPI
 
 sample model for relevent subjective way
+#code
+```
 public class DTO
 {
     public Guid? id { get; set; }
@@ -17,3 +19,4 @@ public class DTO
     public bool? rejectiontoukvisa {  get; set; }
     public DateTime? datemovedtouk {  get; set; }
 }
+```
